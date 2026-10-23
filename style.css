@@ -172,3 +172,46 @@ header .banner .button{
 }
 
 
+
+.page-3{
+    display: flex;
+    gap: 60px;
+
+    max-width: 1360px;
+    margin: 120px auto;
+}
+
+.page-3 .right-things{
+    margin: 102px;
+}
+
+
+.page-3 .right-things h6{
+    color: #469165;
+    margin-bottom: 16px;
+}
+
+.page-3 .right-things h2{
+    font-size: 38px;
+    margin-bottom: 16px;
+}
+
+.page-3 .right-things p{
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.page-3 .right-things .details{
+    display: flex;
+    gap: 5px;
+}
+
+.page-3 .right-things .details .fa-solid{
+    color: #30B868;
+}
+
+.page-3 .right-things .details p{
+    color: #001931;
+    margin-bottom: 16px;
+}
+
