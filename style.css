@@ -113,3 +113,62 @@ header .banner .button{
     gap: 16px;
 
 }
+
+
+
+.page-2 .heading{
+    width: 1360px;
+    margin: 0 120px;
+    text-align: center;
+}
+
+.page-2 .heading h1{
+    font-size: 38px;
+    font-size: bold;
+
+    padding-top: 40px;
+    margin-bottom: 16px;
+}
+
+.page-2 .heading p{
+    color: #627382;
+    line-height: 20px;
+}
+
+.page-2 .cards{
+    display: flex;
+    gap: 24px;
+
+    border: 1px dotted #627382;
+
+    text-align: center;
+
+    width: 1360px;
+    margin: 44px auto 10px;
+
+}
+
+.page-2 .cards .card-info{
+    width: 322px;
+    margin: 69px 24px;
+}
+
+.page-2 .cards .card-info img{
+    background-color: #F95555;
+    padding: 16px 16px;
+    border-radius: 100px;
+    margin-bottom: 16px;
+}
+
+.page-2 .cards .card-info h3{
+    font-size: 24px;
+    font-weight: 600px;
+    margin-bottom: 16px;
+}
+
+.page-2 .cards .card-info p{
+    color: #627382;
+    line-height: 20px;
+}
+
+
